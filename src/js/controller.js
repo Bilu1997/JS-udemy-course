@@ -7,7 +7,7 @@ const timeout = function (s) {
     }, s * 1000);
   });
 };
-console.log('Hello');
+console.log('Hello2');
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
