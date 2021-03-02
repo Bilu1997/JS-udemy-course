@@ -1,0 +1,29 @@
+{
+  "name": "js-udemy-course",
+  "version": "1.0.0",
+  "description": "Recipe app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilu1997/JS-udemy-course.git"
+  },
+  "author": "Krzysztof Bil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilu1997/JS-udemy-course/issues"
+  },
+  "homepage": "https://github.com/Bilu1997/JS-udemy-course#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.513",
+    "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
