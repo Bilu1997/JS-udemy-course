@@ -1,6 +1,7 @@
 import { async } from 'regenerator-runtime';
 import { API_URL, RES_PER_PAGE } from './config.js';
 import { getJSON } from './helper.js';
+import icons from 'url:../img/icons.svg';
 
 export const state = {
   recipe: {},
